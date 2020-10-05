@@ -1,0 +1,19 @@
+Buat dua buah modul 
+1. AUTH : berisi user dan autentikasi oauth
+2. MATER DATA : berisi catu buah contoller dan model , contoh (Sliders, Product dll)
+
+ketika memanggil contoller / enpoint dari MATER DATA, harus ada pengecekan ke AUTH
+contoh saya mau mengambil seluruh data Produk maka user / token yg saya kirim di cek dulu ke AUTH
+
+
+*menggunakan lumen
+*database mysql
+*push ke git masing2 invite rabduljamal1411@gmail.com
+
+
+Progress
+Untuk Auth, User, Token JWT, Eloquent, controller auth, DB sudah berhasil diimplementasikan.
+
+Kendala
+Untuk MATER DATA, authorisasi ketika ingin mengambil data produk sejauh ini belum saya temukan/terpikirkan gambaran implementasi nya.
+Untuk "Buat dua buah modul" saya masih belum mengerti apakah maksud dari "modul" tsb.
