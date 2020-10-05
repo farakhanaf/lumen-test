@@ -13,6 +13,7 @@ contoh saya mau mengambil seluruh data Produk maka user / token yg saya kirim di
 
 Progress
 Untuk Auth, User, Token JWT, Eloquent, controller auth, DB sudah berhasil diimplementasikan.
+Testing digunakan dengan postman.
 
 Kendala
 Untuk MATER DATA, authorisasi ketika ingin mengambil data produk sejauh ini belum saya temukan/terpikirkan gambaran implementasi nya.
